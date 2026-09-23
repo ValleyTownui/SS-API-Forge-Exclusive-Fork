@@ -15,3 +15,6 @@ SSAPI Forge Fork is a Forge-exclusive fork of SSAPI, designed for improved compa
 Copyright (c) 2024 SSAPI-Minecraft
 
 본 프로젝트의 사용, 수정 및 배포 시 MIT License에 명시된 조건을 준수해야 합니다.
+
+
+본 배포본은 비공식 배포본이며, 원 제작자 또는 공식 배포처와 관련된 공식 배포가 아닙니다.
